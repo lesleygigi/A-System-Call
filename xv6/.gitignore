@@ -1,0 +1,16 @@
+*.vscode/
+*.pyc
+*.d
+*.o
+*.img
+*.log
+*.out
+fs/
+user/bin/
+bootother
+initcode
+kernel/bootblock
+kernel/kernel
+kernel/vectors.S
+tools/mkfs
+
